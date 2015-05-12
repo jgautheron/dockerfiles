@@ -38,6 +38,9 @@ RUN mkdir /data && chown redis:redis /data
 VOLUME /data
 WORKDIR /data
 
+COPY sysctl.conf /etc/sysctl.conf
+COPY sysfs.conf /etc/sysfs.conf
+
 COPY docker-entrypoint.sh /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
 
