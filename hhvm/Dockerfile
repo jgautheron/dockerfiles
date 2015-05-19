@@ -4,7 +4,7 @@ MAINTAINER "Jonathan Gautheron" <jgautheron@tenwa.pl>
 
 ENV DEBIAN_FRONTEND noninteractive
 
-ENV CORE_NUMBER 4
+ENV CORE_NUMBER 8
 ENV APP_FOLDER /var/www/app
 ENV HHVM_VERSION 3.6.2
 ENV PHP_INI_DIR /etc/hhvm/
