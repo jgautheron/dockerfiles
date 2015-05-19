@@ -1,5 +1,5 @@
 # Deny access to root files that could be hanging around (composer, LICENSE, build xml files...)
-location ~* ^/.+\.(xml|json|lock|sh|txt|yaml|md)$ {
+location ~* ^/.+\.(xml|json|lock|sh|txt|yaml|yml|md)$ {
   deny all;
   return 404;
 }
