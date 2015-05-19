@@ -1,11 +1,5 @@
 # Deny access to root files that could be hanging around (composer, LICENSE, build xml files...)
-location ~* ^/.+\.(xml|json|lock|sh|txt)$ {
-  deny all;
-  return 404;
-}
-
-# Deny access to any markdown file
-location ~*\.md$ {
+location ~* ^/.+\.(xml|json|lock|sh|txt|yaml|md)$ {
   deny all;
   return 404;
 }
