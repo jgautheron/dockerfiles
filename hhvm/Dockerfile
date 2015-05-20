@@ -12,12 +12,13 @@ RUN apt-get install -yqq --no-install-recommends software-properties-common && \
     apt-get update && \
     apt-get install -yqq --no-install-recommends hhvm supervisor cron
 
-RUN /usr/bin/update-alternatives --install /usr/bin/php php /usr/local/bin/hhvm 60
+RUN /usr/bin/update-alternatives --install /usr/bin/php php /usr/bin/hhvm 60
 
 COPY config/hhvm/php.ini $PHP_INI_DIR/
 
 # Cleanup the container
-RUN apt-get autoremove -yqq && \
+RUN apt-get purge -yqq software-properties-common && \
+    apt-get autoremove -yqq && \
     apt-get clean all && \
     rm -rf /var/lib/apt/lists/*
 
