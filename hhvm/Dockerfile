@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM phusion/baseimage:0.9.16
 MAINTAINER Jonathan Gautheron <jgautheron@tenwa.pl>
 
 ENV DEBIAN_FRONTEND noninteractive
@@ -22,15 +22,24 @@ RUN apt-get purge -yqq software-properties-common && \
     apt-get clean all && \
     rm -rf /var/lib/apt/lists/*
 
-# Scripts
-ADD config/supervisord.conf /etc/supervisor/supervisord.conf
-ADD supervisor-config/ /etc/supervisor/conf.d/
-ADD scripts/ /scripts/
-RUN chmod 755 /scripts/*.sh
+# Processes
+RUN chmod 755 /processes/*.sh
+
+# HHVM
+RUN mkdir /etc/service/hhvm
+ADD processes/hhvm.sh /etc/service/hhvm/run
+
+# Cron
+RUN mkdir /etc/service/cron
+ADD processes/cron.sh /etc/service/cron/run
+
+# Queue
+RUN mkdir /etc/service/queue
+ADD processes/queue.sh /etc/service/queue/run
 
 # Add crontab file
 ADD crontab /etc/cron.d/appstore-cron
-RUN chmod 0644 /etc/cron.d/appstore-cron
+RUN chmod 600 /etc/cron.d/appstore-cron
 
 VOLUME ["/etc/hhvm"]
 
