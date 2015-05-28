@@ -37,4 +37,4 @@ ADD processes/hhvm.sh /etc/service/hhvm/run
 VOLUME ["/etc/hhvm"]
 
 EXPOSE 9000
-CMD ["hhvm", "-a"]
+CMD ["hhvm", "--mode", "server"]
