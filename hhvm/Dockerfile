@@ -37,4 +37,4 @@ RUN chmod 600 /etc/cron.d/appstore-cron
 VOLUME ["/etc/hhvm"]
 
 EXPOSE 9000
-CMD ["/scripts/start.sh"]
+CMD ["/sbin/my_init"]
