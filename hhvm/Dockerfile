@@ -22,9 +22,6 @@ RUN apt-get purge -yqq software-properties-common && \
     apt-get clean all && \
     rm -rf /var/lib/apt/lists/*
 
-# Processes
-RUN chmod 755 /processes/*.sh
-
 # HHVM
 RUN mkdir /etc/service/hhvm
 ADD processes/hhvm.sh /etc/service/hhvm/run
