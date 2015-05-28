@@ -26,10 +26,6 @@ RUN apt-get purge -yqq software-properties-common && \
 RUN mkdir /etc/service/hhvm
 ADD processes/hhvm.sh /etc/service/hhvm/run
 
-# Cron
-RUN mkdir /etc/service/cron
-ADD processes/cron.sh /etc/service/cron/run
-
 # Queue
 RUN mkdir /etc/service/queue
 ADD processes/queue.sh /etc/service/queue/run
