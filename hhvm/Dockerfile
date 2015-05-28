@@ -1,5 +1,5 @@
 FROM phusion/baseimage:0.9.16
-MAINTAINER Jonathan Gautheron <jgautheron@tenwa.pl>
+MAINTAINER Jonathan Gautheron <jgautheron@neverblend.in>
 
 ENV DEBIAN_FRONTEND noninteractive
 
@@ -27,12 +27,12 @@ RUN mkdir /etc/service/hhvm
 ADD processes/hhvm.sh /etc/service/hhvm/run
 
 # Queue
-RUN mkdir /etc/service/queue
-ADD processes/queue.sh /etc/service/queue/run
+#RUN mkdir /etc/service/queue
+#ADD processes/queue.sh /etc/service/queue/run
 
 # Add crontab file
-ADD crontab /etc/cron.d/appstore-cron
-RUN chmod 600 /etc/cron.d/appstore-cron
+#ADD crontab /etc/cron.d/appstore-cron
+#RUN chmod 600 /etc/cron.d/appstore-cron
 
 VOLUME ["/etc/hhvm"]
 
