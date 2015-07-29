@@ -35,6 +35,8 @@ ADD crontab /etc/cron.d/appstore-cron
 RUN chmod 600 /etc/cron.d/appstore-cron
 
 VOLUME ["/etc/hhvm"]
+VOLUME ["/var/www/app"]
 
 EXPOSE 9000
+EXPOSE 9001
 CMD ["/sbin/my_init"]

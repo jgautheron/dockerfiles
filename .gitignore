@@ -1,1 +1,3 @@
 .DS_Store
+phpstorm/install*
+phpstorm/config*
