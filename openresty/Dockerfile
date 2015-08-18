@@ -1,5 +1,5 @@
 FROM google/debian:wheezy
-MAINTAINER Jonathan Gautheron "jgautheron@tenwa.pl"
+MAINTAINER Jonathan Gautheron "jgautheron@neverblend.in"
 
 ENV DEBIAN_FRONTEND noninteractive
 
