@@ -1,4 +1,4 @@
-FROM google/debian:wheezy
+FROM debian:jessie
 MAINTAINER Jonathan Gautheron "jgautheron@neverblend.in"
 
 ENV DEBIAN_FRONTEND noninteractive

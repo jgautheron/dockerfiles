@@ -6,13 +6,13 @@ The configuration [follows best practices](https://github.com/h5bp/server-config
 
 ## Features
 
-- Uses latest OpenSSL 1.0.2a
+- Uses latest OpenSSL 1.0.2d
 - Allows only the TLSv1 TLSv1.1 TLSv1.2 protocols ([see SSLv3 Poodle Vulnerability](https://www.us-cert.gov/ncas/alerts/TA14-290A))
 - Server signature hidden (`Server` header removed)
 - Additional headers (`X-Frame-Options`, `X-XSS-Protection`, `Strict-Transport-Security`)
-- Open file cache
+- Open file cache enabled
 - `default_server` sends back HTTP 444 No Response
-- Default cache settings for assets (fonts, images, js, css)
+- Default cache settings for static assets (fonts, images, js, css)
 - Forbid access to files that could hang around (md, sql, sh, txt, tar, log, ini...)
 
 The following modules are enabled:
@@ -60,6 +60,7 @@ server {
 ```
 
 ### Run the container
+:warning: There is no vhost configured by default, it won't work without the proper volumes mounted.
 
 ```bash
 # run the container & mount the volumes
