@@ -17,3 +17,9 @@ docker run -it \
    -e DISPLAY=$DISPLAY \
    phpstorm
 ```
+
+### Troubleshooting
+
+`# 'Gtk: cannot open display: :0'`  
+Try to set `DISPLAY=your_host_ip:0` or run `xhost +` on your host.
+(see: http://stackoverflow.com/questions/28392949/running-chromium-inside-docker-gtk-cannot-open-display-0)
