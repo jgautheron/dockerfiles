@@ -4,7 +4,7 @@
 #   -v $HOME/projects:/workspace \
 #   --device /dev/snd \
 #   -e DISPLAY=$DISPLAY \
-#   phpstorm
+#   jgautheron/phpstorm
 
 FROM debian:jessie
 MAINTAINER Jonathan Gautheron <jgautheron@neverblend.in>
