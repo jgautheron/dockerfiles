@@ -22,4 +22,4 @@ docker run -it \
 <a name="create-portable"></a>
 ### Create a portable version of Adobe Photoshop CS2
 
-If you don't already own a copy of Adobe Photoshop CS2, you can download the [trial version here](http://download.adobe.com/pub/adobe/photoshop/win/cs2/Photoshop_CS2.exe), then follow the instructions here to [create a portable version](http://portableapps.com/node/1426). This should keep the tota image weight low (< 1 GB).
+If you don't already own a copy of Adobe Photoshop CS2, you can download the [trial version here](http://download.adobe.com/pub/adobe/photoshop/win/cs2/Photoshop_CS2.exe), then follow the instructions here to [create a portable version](http://portableapps.com/node/1426). This should keep the totat image weight low (< 1 GB).
