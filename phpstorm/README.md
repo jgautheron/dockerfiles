@@ -4,7 +4,7 @@ PhpStorm in a container. This `Dockerfile` is considered generic, extend it to i
 ### How to use
 First pull the container.
 ```bash
-docker pull jgautheron/phpstorm:9.0.2
+docker pull jgautheron/phpstorm:latest
 ```
 
 Then run it!
@@ -15,11 +15,11 @@ docker run -it \
    -v $HOME/projects:/workspace \
    --device /dev/snd \
    -e DISPLAY=$DISPLAY \
-   phpstorm
+   jgautheron/phpstorm:latest
 ```
 
 ### Troubleshooting
 
 `# 'Gtk: cannot open display: :0'`  
-Try to set `DISPLAY=your_host_ip:0` or run `xhost +` on your host.
-(see: http://stackoverflow.com/questions/28392949/running-chromium-inside-docker-gtk-cannot-open-display-0)
+Try to set `DISPLAY=your_host_ip:0` or run `xhost +` on your host.  
+[Read here](http://stackoverflow.com/questions/28392949/running-chromium-inside-docker-gtk-cannot-open-display-0) for more info.

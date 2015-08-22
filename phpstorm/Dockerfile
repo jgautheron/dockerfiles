@@ -5,7 +5,7 @@
 #   --device /dev/snd \
 #   -e DISPLAY=$DISPLAY \
 #   jgautheron/phpstorm
-
+#
 FROM alpine:3.2
 MAINTAINER Jonathan Gautheron <jgautheron@neverblend.in>
 ENV VERSION 9.0.2
