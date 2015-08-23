@@ -5,7 +5,7 @@ Photoshop CS2 has been picked specifically since it's [rated Gold](https://appdb
 ### Getting started
 
 1. Clone the repo
-2. Download or [create a portable version of Photoshop CS2](#create-portable)
+2. Download or [create a portable version of Photoshop CS2](#create-a-portable-version-of-adobe-photoshop-cs2)
 3. Save the files in the folder `dockerfiles/photoshop/PhotoshopPortable`
 4. Build the container `docker build -t photoshop .`
 5. And run it!
