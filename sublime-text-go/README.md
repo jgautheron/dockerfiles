@@ -1,6 +1,8 @@
 # Sublime Text 3 for Go
 Get started quickly with this version of Sublime Text 3 already prepared for Golang development.
 
+![](screenshot.png)
+
 ### Getting started
 First pull the container.
 ```bash
@@ -11,6 +13,7 @@ Then run it!
 ```bash
 docker run -it \
    -v $HOME/.config/sublime-text-3/:/home/subl/.config/sublime-text-3 \
+   # path to your workspace
    -v $HOME/workspace:/home/subl/workspace \
    -v /tmp/.X11-unix:/tmp/.X11-unix \
    # mount your own GOPATH if you want
