@@ -1,7 +1,7 @@
 # PhpStorm
 PhpStorm in a container. This `Dockerfile` is considered generic, extend it to implement your organisation specificities (theme, plugins, formatting, macros...).
 
-### How to use
+### Getting started
 First pull the container.
 ```bash
 docker pull jgautheron/phpstorm:latest
