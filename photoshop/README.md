@@ -23,3 +23,9 @@ docker run -it \
 ### Create a portable version of Adobe Photoshop CS2
 
 If you don't already own a copy of Adobe Photoshop CS2, you can download the [trial version here](http://download.adobe.com/pub/adobe/photoshop/win/cs2/Photoshop_CS2.exe), then follow the instructions here to [create a portable version](http://portableapps.com/node/1426). This should keep the total image weight low (< 1 GB).
+
+### Troubleshooting
+
+`# 'Gtk: cannot open display: :0'`  
+Try to set `DISPLAY=your_host_ip:0` or run `xhost +` on your host.  
+[Read here](http://stackoverflow.com/questions/28392949/running-chromium-inside-docker-gtk-cannot-open-display-0) for more info.
