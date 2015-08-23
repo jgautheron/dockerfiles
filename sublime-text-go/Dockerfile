@@ -28,8 +28,8 @@ RUN apt-get update && apt-get -y install \
     libgtk2.0-0 \
     locales \
     ttf-dejavu \
-    --no-install-recommends \
-    && rm -rf /var/lib/apt/lists/*
+    --no-install-recommends && \
+    rm -rf /var/lib/apt/lists/*
 
 # fix & set locale
 RUN locale-gen en_US.UTF-8 en_us && dpkg-reconfigure locales && dpkg-reconfigure locales && locale-gen C.UTF-8 && /usr/sbin/update-locale LANG=C.UTF-8
@@ -46,9 +46,10 @@ RUN wget -O /usr/local/bin/gosu "https://github.com/tianon/gosu/releases/downloa
     chmod +x /usr/local/bin/gosu
 
 # install Go
-RUN wget -qO - https://godeb.s3.amazonaws.com/godeb-amd64.tar.gz | tar zxvf - -C /tmp
-RUN /tmp/godeb install ${GOVERSION} && \
-    rm -f /go*.deb
+RUN wget -qO - https://godeb.s3.amazonaws.com/godeb-amd64.tar.gz | tar zxvf - -C /tmp && \
+    /tmp/godeb install ${GOVERSION} && \
+    rm -f /go*.deb && \
+    rm -fR /tmp/*
 
 USER subl
 
@@ -64,4 +65,3 @@ RUN mkdir -p /home/subl/bin/subl && \
 USER root
 RUN chown -R subl /home/subl
 CMD ["gosu", "subl", "/home/subl/bin/subl/sublime_text", "-w"]
-
