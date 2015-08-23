@@ -1,5 +1,5 @@
 # Sublime Text 3 for Go
-Get started quickly with this version of Sublime Text 3 already prepared for Golang development.
+Get started quickly with this version of Sublime Text 3 prepared for Golang development.
 
 ![](screenshot.png)
 
