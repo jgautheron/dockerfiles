@@ -1,0 +1,19 @@
+{
+    "env": {
+        "GOBIN": "/home/subl/go/bin",
+        "GOPATH": "/home/subl/go",
+        "PATH": "$PATH:/home/subl/go/bin"
+    },
+    "fmt_cmd": ["goimports"],
+    "on_save": [{
+        "cmd": "gs9o_open", "args": {
+        "run": [
+            "sh",
+            "go build . errors && go test -i && go test && go vet && /home/subl/go/bin/golint ."
+        ],
+        "focus_view": false
+        }
+    }],
+    "autocomplete_closures": true,
+    "complete_builtins": true
+}

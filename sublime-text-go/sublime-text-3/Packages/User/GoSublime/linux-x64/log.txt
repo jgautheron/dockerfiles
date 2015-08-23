@@ -1,0 +1,684 @@
+
+** 2015-08-22 20:55:41.069025 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: ``
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2015-08-22 20:55:41.076581 **:
+MarGo: Missing required environment variables: GOROOT GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2015-08-22 21:10:33.108205 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: ``
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2015-08-22 21:10:33.113872 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2015-08-22 21:10:46.360059 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:10:52.722312 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:10:52.982847 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:10:53.390925 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:10:57.572654 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:10:59.559460 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:10:59.927672 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:11:00.222208 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:11:00.311640 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:11:00.431248 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:11:00.637646 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:11:02.729133 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:11:05.601881 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:11:06.888202 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:11:07.039564 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:11:09.337297 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:11:09.673801 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:11:15.325054 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:11:15.972972 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:15:38.401911 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: ``
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2015-08-22 21:15:38.408793 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2015-08-22 21:15:56.793233 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:15:57.072142 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:15:57.197454 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:15:59.401660 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:16:01.044380 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:16:01.699635 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:16:04.038620 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:16:04.197151 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:16:04.294549 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:16:04.477710 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:16:04.566262 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:16:04.732189 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:16:04.875039 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/root/.config/sublime-text-3/Packages/User/GoSublime/linux-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------
+
+** 2015-08-22 21:20:16.371933 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: ``
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2015-08-22 21:20:16.375517 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2015-08-22 23:21:41.028781 **:
+MarGo: MarGo build failed
+cmd: `['/usr/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go1.4.2.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `WORK=/tmp/go-build425208492
+../../../../GoSublime/src/gosubli.me/margo/broker.go:4:2: cannot find package "bufio" in any of:
+	/root/go/src/bufio (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/bufio (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/broker.go:5:2: cannot find package "bytes" in any of:
+	/root/go/src/bytes (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/bytes (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:5:2: cannot find package "encoding/base64" in any of:
+	/root/go/src/encoding/base64 (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/encoding/base64 (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/broker.go:6:2: cannot find package "encoding/json" in any of:
+	/root/go/src/encoding/json (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/encoding/json (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/package.go:5:2: cannot find package "errors" in any of:
+	/root/go/src/errors (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/errors (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/main.go:7:2: cannot find package "flag" in any of:
+	/root/go/src/flag (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/flag (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:7:2: cannot find package "fmt" in any of:
+	/root/go/src/fmt (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/fmt (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:8:2: cannot find package "go/ast" in any of:
+	/root/go/src/go/ast (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/ast (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_play.go:5:2: cannot find package "go/build" in any of:
+	/root/go/src/go/build (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/build (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:9:2: cannot find package "go/parser" in any of:
+	/root/go/src/go/parser (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/parser (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:10:2: cannot find package "go/printer" in any of:
+	/root/go/src/go/printer (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/printer (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_lint.go:6:2: cannot find package "go/scanner" in any of:
+	/root/go/src/go/scanner (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/scanner (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:11:2: cannot find package "go/token" in any of:
+	/root/go/src/go/token (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/token (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/config.go:7:2: cannot find package "io" in any of:
+	/root/go/src/io (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/io (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:9:2: cannot find package "io/ioutil" in any of:
+	/root/go/src/io/ioutil (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/io/ioutil (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/main.go:10:2: cannot find package "log" in any of:
+	/root/go/src/log (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/log (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/types/const.go:12:2: cannot find package "math/big" in any of:
+	/root/go/src/math/big (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/math/big (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/server.go:5:2: cannot find package "net" in any of:
+	/root/go/src/net (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/net (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_pkgdoc.go:7:2: cannot find package "net/http" in any of:
+	/root/go/src/net/http (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/net/http (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/client.go:7:2: cannot find package "net/rpc" in any of:
+	/root/go/src/net/rpc (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/net/rpc (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_pkgdoc.go:8:2: cannot find package "net/url" in any of:
+	/root/go/src/net/url (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/net/url (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:10:2: cannot find package "os" in any of:
+	/root/go/src/os (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/os (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/os_posix.go:8:2: cannot find package "os/exec" in any of:
+	/root/go/src/os/exec (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/os/exec (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_doc.go:7:2: cannot find package "path" in any of:
+	/root/go/src/path (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/path (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:11:2: cannot find package "path/filepath" in any of:
+	/root/go/src/path/filepath (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/path/filepath (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/config.go:10:2: cannot find package "reflect" in any of:
+	/root/go/src/reflect (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/reflect (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_lint.go:9:2: cannot find package "regexp" in any of:
+	/root/go/src/regexp (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/regexp (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:12:2: cannot find package "runtime" in any of:
+	/root/go/src/runtime (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/runtime (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:13:2: cannot find package "sort" in any of:
+	/root/go/src/sort (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/sort (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/client.go:10:2: cannot find package "strconv" in any of:
+	/root/go/src/strconv (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/strconv (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/decl.go:10:2: cannot find package "strings" in any of:
+	/root/go/src/strings (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/strings (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/decl.go:11:2: cannot find package "sync" in any of:
+	/root/go/src/sync (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/sync (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/package.go:13:2: cannot find package "text/scanner" in any of:
+	/root/go/src/text/scanner (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/text/scanner (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:14:2: cannot find package "time" in any of:
+	/root/go/src/time (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/time (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/cursorcontext.go:6:2: cannot find package "unicode" in any of:
+	/root/go/src/unicode (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/unicode (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/cursorcontext.go:7:2: cannot find package "unicode/utf8" in any of:
+	/root/go/src/unicode/utf8 (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/unicode/utf8 (from $GOPATH)`
+exception: `None`
+--------------------------------
+
+** 2015-08-22 23:22:59.946304 **:
+MarGo: MarGo build failed
+cmd: `['/usr/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go1.4.2.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `WORK=/tmp/go-build455361313
+../../../../GoSublime/src/gosubli.me/margo/broker.go:4:2: cannot find package "bufio" in any of:
+	/root/go/src/bufio (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/bufio (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/broker.go:5:2: cannot find package "bytes" in any of:
+	/root/go/src/bytes (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/bytes (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:5:2: cannot find package "encoding/base64" in any of:
+	/root/go/src/encoding/base64 (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/encoding/base64 (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/broker.go:6:2: cannot find package "encoding/json" in any of:
+	/root/go/src/encoding/json (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/encoding/json (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/package.go:5:2: cannot find package "errors" in any of:
+	/root/go/src/errors (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/errors (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/main.go:7:2: cannot find package "flag" in any of:
+	/root/go/src/flag (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/flag (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:7:2: cannot find package "fmt" in any of:
+	/root/go/src/fmt (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/fmt (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:8:2: cannot find package "go/ast" in any of:
+	/root/go/src/go/ast (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/ast (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_play.go:5:2: cannot find package "go/build" in any of:
+	/root/go/src/go/build (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/build (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:9:2: cannot find package "go/parser" in any of:
+	/root/go/src/go/parser (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/parser (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:10:2: cannot find package "go/printer" in any of:
+	/root/go/src/go/printer (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/printer (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_lint.go:6:2: cannot find package "go/scanner" in any of:
+	/root/go/src/go/scanner (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/scanner (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:11:2: cannot find package "go/token" in any of:
+	/root/go/src/go/token (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/token (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/config.go:7:2: cannot find package "io" in any of:
+	/root/go/src/io (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/io (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:9:2: cannot find package "io/ioutil" in any of:
+	/root/go/src/io/ioutil (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/io/ioutil (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/main.go:10:2: cannot find package "log" in any of:
+	/root/go/src/log (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/log (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/types/const.go:12:2: cannot find package "math/big" in any of:
+	/root/go/src/math/big (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/math/big (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/server.go:5:2: cannot find package "net" in any of:
+	/root/go/src/net (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/net (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_pkgdoc.go:7:2: cannot find package "net/http" in any of:
+	/root/go/src/net/http (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/net/http (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/client.go:7:2: cannot find package "net/rpc" in any of:
+	/root/go/src/net/rpc (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/net/rpc (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_pkgdoc.go:8:2: cannot find package "net/url" in any of:
+	/root/go/src/net/url (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/net/url (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:10:2: cannot find package "os" in any of:
+	/root/go/src/os (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/os (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/os_posix.go:8:2: cannot find package "os/exec" in any of:
+	/root/go/src/os/exec (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/os/exec (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_doc.go:7:2: cannot find package "path" in any of:
+	/root/go/src/path (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/path (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:11:2: cannot find package "path/filepath" in any of:
+	/root/go/src/path/filepath (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/path/filepath (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/config.go:10:2: cannot find package "reflect" in any of:
+	/root/go/src/reflect (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/reflect (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_lint.go:9:2: cannot find package "regexp" in any of:
+	/root/go/src/regexp (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/regexp (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:12:2: cannot find package "runtime" in any of:
+	/root/go/src/runtime (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/runtime (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:13:2: cannot find package "sort" in any of:
+	/root/go/src/sort (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/sort (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/client.go:10:2: cannot find package "strconv" in any of:
+	/root/go/src/strconv (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/strconv (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/decl.go:10:2: cannot find package "strings" in any of:
+	/root/go/src/strings (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/strings (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/decl.go:11:2: cannot find package "sync" in any of:
+	/root/go/src/sync (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/sync (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/package.go:13:2: cannot find package "text/scanner" in any of:
+	/root/go/src/text/scanner (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/text/scanner (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:14:2: cannot find package "time" in any of:
+	/root/go/src/time (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/time (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/cursorcontext.go:6:2: cannot find package "unicode" in any of:
+	/root/go/src/unicode (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/unicode (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/cursorcontext.go:7:2: cannot find package "unicode/utf8" in any of:
+	/root/go/src/unicode/utf8 (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/unicode/utf8 (from $GOPATH)`
+exception: `None`
+--------------------------------
+
+** 2015-08-22 21:26:24.683933 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: ``
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2015-08-22 21:27:53.705581 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: ``
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2015-08-22 21:29:56.174696 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: ``
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2015-08-22 21:39:30.881530 **:
+MarGo: MarGo build failed
+cmd: `['/usr/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/lib/go`
+exception: `None`
+--------------------------------
+
+** 2015-08-22 21:40:26.579533 **:
+MarGo: MarGo build failed
+cmd: `['/usr/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go1.5.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `WORK=/tmp/go-build590719086
+../../../../GoSublime/src/gosubli.me/margo/broker.go:4:2: cannot find package "bufio" in any of:
+	/usr/lib/go/src/bufio (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/bufio (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/broker.go:5:2: cannot find package "bytes" in any of:
+	/usr/lib/go/src/bytes (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/bytes (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:5:2: cannot find package "encoding/base64" in any of:
+	/usr/lib/go/src/encoding/base64 (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/encoding/base64 (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/broker.go:6:2: cannot find package "encoding/json" in any of:
+	/usr/lib/go/src/encoding/json (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/encoding/json (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/package.go:5:2: cannot find package "errors" in any of:
+	/usr/lib/go/src/errors (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/errors (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/main.go:7:2: cannot find package "flag" in any of:
+	/usr/lib/go/src/flag (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/flag (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:7:2: cannot find package "fmt" in any of:
+	/usr/lib/go/src/fmt (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/fmt (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:8:2: cannot find package "go/ast" in any of:
+	/usr/lib/go/src/go/ast (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/ast (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_play.go:5:2: cannot find package "go/build" in any of:
+	/usr/lib/go/src/go/build (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/build (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:9:2: cannot find package "go/parser" in any of:
+	/usr/lib/go/src/go/parser (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/parser (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:10:2: cannot find package "go/printer" in any of:
+	/usr/lib/go/src/go/printer (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/printer (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_lint.go:6:2: cannot find package "go/scanner" in any of:
+	/usr/lib/go/src/go/scanner (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/scanner (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:11:2: cannot find package "go/token" in any of:
+	/usr/lib/go/src/go/token (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/token (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/config.go:7:2: cannot find package "io" in any of:
+	/usr/lib/go/src/io (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/io (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:9:2: cannot find package "io/ioutil" in any of:
+	/usr/lib/go/src/io/ioutil (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/io/ioutil (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/main.go:10:2: cannot find package "log" in any of:
+	/usr/lib/go/src/log (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/log (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/types/const.go:12:2: cannot find package "math/big" in any of:
+	/usr/lib/go/src/math/big (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/math/big (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/server.go:5:2: cannot find package "net" in any of:
+	/usr/lib/go/src/net (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/net (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_pkgdoc.go:7:2: cannot find package "net/http" in any of:
+	/usr/lib/go/src/net/http (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/net/http (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/client.go:7:2: cannot find package "net/rpc" in any of:
+	/usr/lib/go/src/net/rpc (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/net/rpc (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_pkgdoc.go:8:2: cannot find package "net/url" in any of:
+	/usr/lib/go/src/net/url (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/net/url (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:10:2: cannot find package "os" in any of:
+	/usr/lib/go/src/os (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/os (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/os_posix.go:8:2: cannot find package "os/exec" in any of:
+	/usr/lib/go/src/os/exec (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/os/exec (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_doc.go:7:2: cannot find package "path" in any of:
+	/usr/lib/go/src/path (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/path (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:11:2: cannot find package "path/filepath" in any of:
+	/usr/lib/go/src/path/filepath (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/path/filepath (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/config.go:10:2: cannot find package "reflect" in any of:
+	/usr/lib/go/src/reflect (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/reflect (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_lint.go:9:2: cannot find package "regexp" in any of:
+	/usr/lib/go/src/regexp (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/regexp (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:12:2: cannot find package "runtime" in any of:
+	/usr/lib/go/src/runtime (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/runtime (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:13:2: cannot find package "sort" in any of:
+	/usr/lib/go/src/sort (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/sort (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/client.go:10:2: cannot find package "strconv" in any of:
+	/usr/lib/go/src/strconv (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/strconv (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/decl.go:10:2: cannot find package "strings" in any of:
+	/usr/lib/go/src/strings (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/strings (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/decl.go:11:2: cannot find package "sync" in any of:
+	/usr/lib/go/src/sync (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/sync (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/package.go:13:2: cannot find package "text/scanner" in any of:
+	/usr/lib/go/src/text/scanner (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/text/scanner (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:14:2: cannot find package "time" in any of:
+	/usr/lib/go/src/time (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/time (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/cursorcontext.go:6:2: cannot find package "unicode" in any of:
+	/usr/lib/go/src/unicode (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/unicode (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/cursorcontext.go:7:2: cannot find package "unicode/utf8" in any of:
+	/usr/lib/go/src/unicode/utf8 (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/unicode/utf8 (from $GOPATH)`
+exception: `None`
+--------------------------------
+
+** 2015-08-22 21:45:27.724015 **:
+MarGo: MarGo build failed
+cmd: `['/usr/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go1.5.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `WORK=/tmp/go-build668657897
+../../../../GoSublime/src/gosubli.me/margo/broker.go:4:2: cannot find package "bufio" in any of:
+	/usr/lib/go/src/bufio (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/bufio (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/broker.go:5:2: cannot find package "bytes" in any of:
+	/usr/lib/go/src/bytes (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/bytes (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:5:2: cannot find package "encoding/base64" in any of:
+	/usr/lib/go/src/encoding/base64 (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/encoding/base64 (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/broker.go:6:2: cannot find package "encoding/json" in any of:
+	/usr/lib/go/src/encoding/json (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/encoding/json (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/package.go:5:2: cannot find package "errors" in any of:
+	/usr/lib/go/src/errors (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/errors (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/main.go:7:2: cannot find package "flag" in any of:
+	/usr/lib/go/src/flag (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/flag (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:7:2: cannot find package "fmt" in any of:
+	/usr/lib/go/src/fmt (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/fmt (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:8:2: cannot find package "go/ast" in any of:
+	/usr/lib/go/src/go/ast (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/ast (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_play.go:5:2: cannot find package "go/build" in any of:
+	/usr/lib/go/src/go/build (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/build (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:9:2: cannot find package "go/parser" in any of:
+	/usr/lib/go/src/go/parser (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/parser (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:10:2: cannot find package "go/printer" in any of:
+	/usr/lib/go/src/go/printer (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/printer (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_lint.go:6:2: cannot find package "go/scanner" in any of:
+	/usr/lib/go/src/go/scanner (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/scanner (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/common.go:11:2: cannot find package "go/token" in any of:
+	/usr/lib/go/src/go/token (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/go/token (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/config.go:7:2: cannot find package "io" in any of:
+	/usr/lib/go/src/io (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/io (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:9:2: cannot find package "io/ioutil" in any of:
+	/usr/lib/go/src/io/ioutil (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/io/ioutil (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/main.go:10:2: cannot find package "log" in any of:
+	/usr/lib/go/src/log (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/log (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/types/const.go:12:2: cannot find package "math/big" in any of:
+	/usr/lib/go/src/math/big (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/math/big (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/server.go:5:2: cannot find package "net" in any of:
+	/usr/lib/go/src/net (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/net (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_pkgdoc.go:7:2: cannot find package "net/http" in any of:
+	/usr/lib/go/src/net/http (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/net/http (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/client.go:7:2: cannot find package "net/rpc" in any of:
+	/usr/lib/go/src/net/rpc (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/net/rpc (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_pkgdoc.go:8:2: cannot find package "net/url" in any of:
+	/usr/lib/go/src/net/url (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/net/url (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:10:2: cannot find package "os" in any of:
+	/usr/lib/go/src/os (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/os (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/os_posix.go:8:2: cannot find package "os/exec" in any of:
+	/usr/lib/go/src/os/exec (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/os/exec (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_doc.go:7:2: cannot find package "path" in any of:
+	/usr/lib/go/src/path (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/path (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:11:2: cannot find package "path/filepath" in any of:
+	/usr/lib/go/src/path/filepath (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/path/filepath (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/config.go:10:2: cannot find package "reflect" in any of:
+	/usr/lib/go/src/reflect (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/reflect (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/margo/m_lint.go:9:2: cannot find package "regexp" in any of:
+	/usr/lib/go/src/regexp (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/regexp (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:12:2: cannot find package "runtime" in any of:
+	/usr/lib/go/src/runtime (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/runtime (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:13:2: cannot find package "sort" in any of:
+	/usr/lib/go/src/sort (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/sort (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/client.go:10:2: cannot find package "strconv" in any of:
+	/usr/lib/go/src/strconv (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/strconv (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/decl.go:10:2: cannot find package "strings" in any of:
+	/usr/lib/go/src/strings (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/strings (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/decl.go:11:2: cannot find package "sync" in any of:
+	/usr/lib/go/src/sync (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/sync (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/package.go:13:2: cannot find package "text/scanner" in any of:
+	/usr/lib/go/src/text/scanner (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/text/scanner (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:14:2: cannot find package "time" in any of:
+	/usr/lib/go/src/time (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/time (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/cursorcontext.go:6:2: cannot find package "unicode" in any of:
+	/usr/lib/go/src/unicode (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/unicode (from $GOPATH)
+../../../../GoSublime/src/gosubli.me/something-borrowed/gocode/cursorcontext.go:7:2: cannot find package "unicode/utf8" in any of:
+	/usr/lib/go/src/unicode/utf8 (from $GOROOT)
+	/root/.config/sublime-text-3/Packages/GoSublime/src/unicode/utf8 (from $GOPATH)`
+exception: `None`
+--------------------------------
+
+** 2015-08-22 21:46:19.588703 **:
+MarGo: MarGo build failed
+cmd: `['/usr/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: /usr/lib/go`
+exception: `None`
+--------------------------------

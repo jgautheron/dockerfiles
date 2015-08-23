@@ -1,0 +1,105 @@
+[
+	{
+		"caption": "Preferences",
+		"id": "preferences",
+		"children":
+		[
+			{
+				"caption": "Package Settings",
+				"id": "package-settings",
+				"children":
+				[
+					{
+						"caption": "GoSublime",
+						"children":
+						[
+							{
+								"caption": "Settings – Default",
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/GoSublime/GoSublime.sublime-settings"
+								}
+							},
+							{
+								"caption": "Settings – User",
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/User/GoSublime.sublime-settings"
+								}
+							},
+							{ "caption": "-" },
+							{
+								"caption": "Key Bindings – Default",
+								"platform": "Linux",
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/GoSublime/Default (Linux).sublime-keymap"
+								}
+							},
+							{
+								"caption": "Key Bindings – Default",
+								"platform": "Windows",
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/GoSublime/Default (Windows).sublime-keymap"
+								}
+							},
+							{
+								"caption": "Key Bindings – Default",
+								"platform": "OSX",
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/GoSublime/Default (OSX).sublime-keymap"
+								}
+							},
+							{ "caption": "-" },
+							{
+								"caption": "Changes & Announcements",
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/GoSublime/CHANGELOG.md"
+								}
+							},
+							{ "caption": "-" },
+							{
+								"caption": "Read Me",
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/GoSublime/README.md"
+								}
+							},
+							{
+								"caption": "Usage & Tips",
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/GoSublime/USAGE.md"
+								}
+							},
+							{ "caption": "-" },
+							{
+								"caption": "Authors & Contributors",
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/GoSublime/AUTHORS.md"
+								}
+							},
+							{
+								"caption": "License (MIT)",
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/GoSublime/LICENSE.md"
+								}
+							},
+							{ "caption": "-" },
+							{
+								"caption": "Open Log File",
+								"command": "gs_open_home_path",
+								"args": { "fn": "log.txt" }
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,186 @@
+[
+	{
+		"keys": ["ctrl+.", "ctrl+1"],
+		"command": "open_file",
+		"args": { "file": "${packages}/GoSublime/README.md" }
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+2"],
+		"command": "open_file",
+		"args": { "file": "${packages}/GoSublime/USAGE.md" }
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+3"],
+		"command": "gs_sanity_check"
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+4"],
+		"command": "open_file",
+		"args": { "file": "${packages}/GoSublime/GoSublime.sublime-settings" }
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+5"],
+		"command": "open_file",
+		"args": { "file": "${packages}/User/GoSublime.sublime-settings" }
+	},
+	{
+		"keys": ["ctrl+space"],
+		"command": "auto_complete",
+		"args": {"disable_auto_insert": true, "api_completions_only": true, "next_completion_if_showing": false},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+p"],
+		"command": "gs_palette",
+		"args": {"palette": "imports", "direct": true},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+d"],
+		"command": "gs_palette",
+		"args": {"palette": "declarations", "direct": true},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+e"],
+		"command": "gs_palette",
+		"args": {"palette": "errors", "direct": true},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+["],
+		"command": "gs_palette",
+		"args": {"palette": "jump_back"},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+i"],
+		"command": "gs_palette",
+		"args": {"palette": "jump_to_imports"},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+b"],
+		"command": "gs9o_build",
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+r"],
+		"command": "gs9o_open",
+		"args": {"run": ["replay"], "focus_view": false},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+g"],
+		"command": "gs_doc",
+		"args": {"mode": "goto"},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+g"],
+		"command": "gs9o_open_selection",
+		"context": [{ "key": "selector", "operator": "equal", "operand": "text.9o" }]
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+h"],
+		"command": "gs_doc",
+		"args": {"mode": "hint"},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+."],
+		"command": "show_overlay",
+		"args": {"overlay": "command_palette", "text": "GoSublime: "}
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+f"],
+		"command": "gs_fmt",
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+n"],
+		"command": "gs_new_go_file"
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+a"],
+		"command": "gs_browse_declarations"
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+l"],
+		"command": "gs_browse_declarations",
+		"args": { "dir": "." },
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+o"],
+		"command": "gs_browse_packages"
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+m"],
+		"command": "gs_browse_files"
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+t"],
+		"command": "gs_test",
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+.", "ctrl+space"],
+		"command": "gs_show_call_tip",
+		"context": [{ "key": "selector", "operator": "equal", "operand": "source.go" }]
+	},
+	{
+		"keys": ["ctrl+9"],
+		"command": "gs9o_open"
+	},
+	{
+		"keys": ["ctrl+space"],
+		"command": "auto_complete",
+		"args": {"disable_auto_insert": true, "api_completions_only": true, "next_completion_if_showing": false},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "text.9o" }]
+	},
+	{
+		"keys": ["enter"],
+		"command": "gs9o_exec",
+		"args": {"save_hist": true},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "text.9o" }]
+	},
+	{
+		"keys": ["enter"],
+		"command": "commit_completion",
+		"context": [
+			{ "key": "auto_complete_visible" },
+			{ "key": "setting.auto_complete_commit_on_tab", "operand": false },
+			{ "key": "selector", "operator": "equal", "operand": "text.9o" }
+		]
+	},
+	{
+		"keys": ["ctrl+enter"],
+		"command": "gs9o_insert_line",
+		"context": [{ "key": "selector", "operator": "equal", "operand": "text.9o" }]
+	},
+	{
+		"keys": ["ctrl+shift+enter"],
+		"command": "gs9o_insert_line",
+		"args": {"after": false},
+		"context": [{ "key": "selector", "operator": "equal", "operand": "text.9o" }]
+		},
+	{
+		"keys": ["up"],
+		"command": "gs9o_move_hist",
+		"args": {"up": true},
+		"context": [
+			{ "key": "selector", "operator": "equal", "operand": "prompt.9o" },
+			{ "key": "auto_complete_visible", "operand": false }
+		]
+	},
+	{
+		"keys": ["down"],
+		"command": "gs9o_move_hist",
+		"args": {"up": false},
+		"context": [
+			{ "key": "selector", "operator": "equal", "operand": "prompt.9o" },
+			{ "key": "auto_complete_visible", "operand": false }
+		]
+	}
+]

@@ -1,0 +1,172 @@
+[
+	{
+		"caption": "GoSublime: Add/Remove package",
+		"command": "gs_palette",
+		"args": {"palette": "imports", "direct": true}
+	},
+	{
+		"caption": "GoSublime: List File declarations",
+		"command": "gs_palette",
+		"args": {"palette": "declarations", "direct": true}
+	},
+	{
+		"caption": "GoSublime: List Package declarations",
+		"command": "gs_browse_declarations",
+		"args": {"dir": "."}
+	},
+	{
+		"caption": "GoSublime: Show errors",
+		"command": "gs_palette",
+		"args": {"palette": "errors", "direct": true}
+	},
+	{
+		"caption": "GoSublime: Go to last bookmark",
+		"command": "gs_palette",
+		"args": {"palette": "jump_back"}
+	},
+	{
+		"caption": "GoSublime: Go to imports section",
+		"command": "gs_palette",
+		"args": {"palette": "jump_to_imports"}
+	},
+	{
+		"caption": "GoSublime: Fmt and save",
+		"command": "gs_fmt_save"
+	},
+	{
+		"caption": "GoSublime: Fmt and save as ...",
+		"command": "gs_fmt_prompt_save_as"
+	},
+	{
+		"caption": "GoSublime: Run build command",
+		"command": "gs9o_build"
+	},
+	{
+		"caption": "GoSublime: Replay current package",
+		"command": "gs9o_open",
+		"args": {"run": ["replay"]}
+	},
+	{
+		"caption": "GoSublime: Share (on play.golang.org)",
+		"command": "gs9o_open",
+		"args": {"run": ["share"]}
+	},
+	{
+		"caption": "GoSublime: Goto Definition",
+		"command": "gs_doc",
+		"args": {"mode": "goto"}
+	},
+	{
+		"caption": "GoSublime: Show documentation hint",
+		"command": "gs_doc",
+		"args": {"mode": "hint"}
+	},
+	{
+		"caption": "GoSublime: Fmt the current file (without saving it)",
+		"command": "gs_fmt"
+	},
+	{
+		"caption": "GoSublime: New Go File",
+		"command": "gs_new_go_file"
+	},
+	{
+		"caption": "GoSublime: Browse Declarations",
+		"command": "gs_browse_declarations"
+	},
+	{
+		"caption": "GoSublime: Browse Packages",
+		"command": "gs_browse_packages"
+	},
+	{
+		"caption": "GoSublime: Browse Files",
+		"command": "gs_browse_files"
+	},
+	{
+		"caption": "GoSublime: Run Tests",
+		"command": "gs_test"
+	},
+	{
+		"caption": "GoSublime: Show call tip",
+		"command": "gs_show_call_tip"
+	},
+	{
+		"caption": "GoSublime: Show last build output",
+		"command": "show_panel",
+		"args": {"panel": "output.exec"}
+	},
+	{
+		"caption": "GoSublime: Show/Cancel pending tasks",
+		"command": "gs_show_tasks"
+	},
+	{
+		"caption": "GoSublime: Cancel the currently executing command",
+		"command": "exec",
+		"args": { "kill": true }
+	},
+	{
+		"caption": "GoSublime: Activate 9o",
+		"command": "gs9o_open"
+	},
+	{
+		"caption": "GoSublime: (9o) open file/url",
+		"command": "gs9o_open_selection"
+	},
+	{
+		"caption": "GoSublime: Default Settings",
+		"command": "open_file",
+		"args": {
+			"file": "${packages}/GoSublime/GoSublime.sublime-settings"
+		}
+	},
+	{
+		"caption": "GoSublime: User Settings",
+		"command": "open_file",
+		"args": {
+			"file": "${packages}/User/GoSublime.sublime-settings"
+		}
+	},
+	{
+		"caption": "GoSublime: Changes & Announcements",
+		"command": "open_file",
+		"args": {
+			"file": "${packages}/GoSublime/CHANGELOG.md"
+		}
+	},
+	{
+		"caption": "GoSublime: Read Me",
+		"command": "open_file",
+		"args": {
+			"file": "${packages}/GoSublime/README.md"
+		}
+	},
+	{
+		"caption": "GoSublime: Usage & Tips",
+		"command": "open_file",
+		"args": {
+			"file": "${packages}/GoSublime/USAGE.md"
+		}
+	},
+	{
+		"caption": "GoSublime: Authors & Contributors",
+		"command": "open_file",
+		"args": {
+			"file": "${packages}/GoSublime/AUTHORS.md"
+		}
+	},
+	{
+		"caption": "GoSublime: License (MIT)",
+		"command": "open_file",
+		"args": {
+			"file": "${packages}/GoSublime/LICENSE.md"
+		}
+	},
+	{
+		"caption": "GoSublime: Do a sanity check",
+		"command": "gs_sanity_check"
+	},
+	{
+		"caption": "GoSublime: Open Error Log",
+		"command": "gs_open_home_path",
+		"args": { "fn": "log.txt" }
+	}
+]

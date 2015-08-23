@@ -1,0 +1,18 @@
+{
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+
+	"font_face": "DejaVu Sans Mono",
+	"font_size": 10,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
+	"theme": "Material-Theme.sublime-theme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"overlay_scroll_bars": "enabled",
+	"line_padding_top": 3,
+	"line_padding_bottom": 3,
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+}
