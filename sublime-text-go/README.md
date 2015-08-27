@@ -40,3 +40,6 @@ ST is configured to run automatically at each save:
 `# 'Gtk: cannot open display: :0'`  
 Try to set `DISPLAY=your_host_ip:0` or run `xhost +` on your host.  
 [Read here](http://stackoverflow.com/questions/28392949/running-chromium-inside-docker-gtk-cannot-open-display-0) for more info.
+
+### Credits
+- [Docker Containers on the Desktop](https://blog.jessfraz.com/post/docker-containers-on-the-desktop/)
