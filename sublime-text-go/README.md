@@ -13,15 +13,16 @@ docker pull jgautheron/sublime-text-go:latest
 Then run it!
 ```bash
 docker run -it \
-   -v $HOME/.config/sublime-text-3/:/home/subl/.config/sublime-text-3 \
-   # path to your workspace
    -v $HOME/workspace:/home/subl/workspace \
    -v /tmp/.X11-unix:/tmp/.X11-unix \
-   # mount your own GOPATH if you want
-   # -v /root/go:/home/subl/go \
    -e DISPLAY=$DISPLAY \ 
    jgautheron/sublime-text-go:latest
 ```
+
+#### Notes
+1. `$HOME/workspace` is the workspace you'd like to work with
+2. You can mount your own config if you already have one: `-v $HOME/.config/sublime-text-3/:/home/subl/.config/sublime-text-3`
+3. You can mount your own GOPATH: `-v /root/go:/home/subl/go`
 
 ### What is inside?
 This version contains two plugins:
