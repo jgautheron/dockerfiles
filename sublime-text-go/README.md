@@ -35,6 +35,8 @@ ST is configured to run automatically at each save:
 - `go vet`
 - `golint`
 
+The code will be automatically formatted with `goimports`.
+
 ### Troubleshooting
 
 `# 'Gtk: cannot open display: :0'`  
