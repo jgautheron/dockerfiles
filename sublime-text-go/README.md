@@ -30,7 +30,6 @@ This version contains two plugins:
 - Material Theme
 
 ST is configured to run automatically at each save:
-- `goimports`
 - `go build`
 - `go test`
 - `go vet`
