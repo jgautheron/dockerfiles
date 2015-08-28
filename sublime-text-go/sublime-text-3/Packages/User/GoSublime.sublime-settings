@@ -1,6 +1,5 @@
 {
     "env": {
-        "GOBIN": "/home/subl/go/bin",
         "GOPATH": "/home/subl/go",
         "PATH": "$PATH:/home/subl/go/bin"
     },
