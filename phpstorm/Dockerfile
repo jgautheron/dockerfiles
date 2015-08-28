@@ -19,4 +19,8 @@ RUN apk --update add openjdk7-jre ttf-dejavu wget tar ca-certificates
 RUN mkdir -p /usr/src/phpstorm && \
     wget -qO - http://download.jetbrains.com/webide/PhpStorm-${VERSION}.tar.gz | tar zaxf - -C /usr/src/phpstorm --strip-components=1
 
+# cleanup the container
+RUN apk del wget && \
+    rm -fR /var/cache/apk/*
+
 ENTRYPOINT [ "/usr/src/phpstorm/bin/phpstorm.sh" ]
