@@ -1,6 +1,6 @@
 # Sublime Text 3 for Go
 Get started quickly with this docker container of Sublime Text 3 prepared for Golang development.  
-Came up with this idea for shortening newcomers on-boarding time.
+Came up with this idea for shortening newcomers onboarding time during training sessions.
 
 ![](screenshot.png)
 
