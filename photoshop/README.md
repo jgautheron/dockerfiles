@@ -2,6 +2,8 @@
 Adobe Photoshop CS2 for windows in a container, running on Linux thanks to Wine.  
 Photoshop CS2 has been picked specifically since it's [rated Gold](https://appdb.winehq.org/objectManager.php?sClass=version&iId=2631), it is widely considered as the most stable version when running Wine.
 
+[Read the original article on Medium.](https://medium.com/@jgautheron/photoshop-in-a-docker-container-285ca0f0966c)
+
 ### Getting started
 
 1. Clone the repo
