@@ -2,7 +2,7 @@ OpenResty Container
 ===============
 
 Optimised and secured OpenResty build.
-The configuration [follows best practices](https://github.com/h5bp/server-configs-nginx/) in performance and security plus additional changes.
+The configuration [follows best practices](https://github.com/h5bp/server-configs-nginx/) in performance and security plus additional improvements.
 
 ## Features
 
