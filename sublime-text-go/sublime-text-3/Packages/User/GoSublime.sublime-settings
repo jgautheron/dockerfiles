@@ -8,7 +8,7 @@
         "cmd": "gs9o_open", "args": {
         "run": [
             "sh",
-            "go build . errors && go test -i && go test && go vet && golint ."
+            "go build . errors && go test -i && go test && go vet && /home/subl/go/bin/golint ."
         ],
         "focus_view": false
         }
