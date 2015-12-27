@@ -7,8 +7,8 @@
 FROM jess/wine
 MAINTAINER Jonathan Gautheron <jgautheron@neverblend.in>
 
-RUN apt-get update -qq \
-    && apt-get install -yqq wget ca-certificates cabextract --no-install-recomm$
+RUN apt-get update -qq && \
+    apt-get install -yqq wget ca-certificates cabextract --no-install-recommends
 
 RUN wget -O /usr/bin/winetricks https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks \
     && chmod +x /usr/bin/winetricks
