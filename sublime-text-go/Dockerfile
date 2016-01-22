@@ -51,8 +51,6 @@ RUN wget -qO - https://godeb.s3.amazonaws.com/godeb-amd64.tar.gz | tar zxvf - -C
     rm -f /go*.deb && \
     rm -fR /tmp/*
 
-USER subl
-
 # add local config
 ADD sublime-text-3 /home/subl/.config/sublime-text-3
 
@@ -62,6 +60,5 @@ RUN go get github.com/golang/lint/golint && \
 RUN mkdir -p /home/subl/bin/subl && \
     wget -qO - http://c758482.r82.cf2.rackcdn.com/sublime_text_3_build_3083_x64.tar.bz2 | tar xjf - -C /home/subl/bin/subl --strip-components 1
 
-USER root
-RUN chown -R subl /home/subl
+RUN chown -R subl.subl /home/subl
 CMD ["gosu", "subl", "/home/subl/bin/subl/sublime_text", "-w"]
