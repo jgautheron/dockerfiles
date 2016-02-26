@@ -41,7 +41,7 @@ RUN cd /tmp/ngx_openresty-${OPENRESTY_VERSION} \
         --pid-path=/var/run/nginx.pid \
         --with-ipv6 \
         --with-http_ssl_module \
-        --with-http_spdy_module \
+        --with-http_v2_module \
         --with-pcre=/tmp/pcre-${PCRE_VERSION} \
         --with-zlib=/tmp/zlib-${ZLIB_VERSION} \
         --with-openssl=/tmp/openssl-${OPENSSL_VERSION} \
@@ -99,7 +99,7 @@ RUN mkdir /var/ngx_pagespeed_cache \
 ADD nginx /etc/nginx/
 
 # Define mountable directories.
-VOLUME ["/etc/nginx/sites-enabled", "/etc/nginx/certs", "/etc/nginx/conf", "/var/www", "/var/log/nginx"]
+VOLUME ["/etc/nginx/sites-enabled", "/etc/nginx/certs", "/etc/nginx/conf", "/var/www"]
 
 # Define working directory.
 WORKDIR /etc/nginx

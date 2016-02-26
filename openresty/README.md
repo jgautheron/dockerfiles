@@ -1,12 +1,12 @@
 OpenResty Container
 ===============
 
-Optimised and secured OpenResty build.
+Nginx Openresty with PageSpeed and HTTP2.  
 The configuration [follows best practices](https://github.com/h5bp/server-configs-nginx/) in performance and security plus additional improvements.
 
 ## Features
 
-- Uses latest OpenSSL 1.0.2e
+- Uses latest OpenSSL 1.0.2f
 - Allows only the TLSv1 TLSv1.1 TLSv1.2 protocols ([see SSLv3 Poodle Vulnerability](https://www.us-cert.gov/ncas/alerts/TA14-290A))
 - Server signature hidden (`Server` header removed)
 - Additional headers (`X-Frame-Options`, `X-XSS-Protection`, `Strict-Transport-Security`)
@@ -32,7 +32,7 @@ The following modules are enabled:
 - http_gzip_static_module
 - http_gunzip_module
 - http_ssl_module
-- http_spdy_module
+- http_v2_module
 - pagespeed
 
 ## How to use
