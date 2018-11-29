@@ -31,3 +31,5 @@ If you don't already own a copy of Adobe Photoshop CS2, you can download the [tr
 `# 'Gtk: cannot open display: :0'`  
 Try to set `DISPLAY=your_host_ip:0` or run `xhost +` on your host.  
 [Read here](http://stackoverflow.com/questions/28392949/running-chromium-inside-docker-gtk-cannot-open-display-0) for more info.
+`# Cannot connect to X server`
+In newer versions of Docker you might need to run the command with --privileged flag
